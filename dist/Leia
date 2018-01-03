@@ -1,0 +1,3 @@
+No windows a base de dados fica salva em dist/Logica.db
+
+e no Linux a base está em database/Logica.db
